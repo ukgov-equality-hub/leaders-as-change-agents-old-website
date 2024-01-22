@@ -32,7 +32,7 @@ define('DB_USER', 'exampleuser');
 define('DB_PASSWORD', 'examplepass');
 
 /** MySQL hostname */
-define('DB_HOST', 'localhost');
+define('DB_HOST', 'laca_website_db');
 
 /** Database Charset to use in creating database tables. */
 define('DB_CHARSET', 'utf8mb4');
